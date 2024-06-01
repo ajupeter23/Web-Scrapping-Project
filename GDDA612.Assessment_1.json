@@ -1,0 +1,2059 @@
+[{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074d6"
+  },
+  "Country": "China",
+  "Energy Consumption BTU": {
+    "$numberLong": "138689472800000"
+  },
+  "World Share": 23.8,
+  "Per capita Yearly BTU": 98342,
+  "Undernourished  People": 121400000,
+  "Percent of Population": 8.57,
+  "Population in 2018": 1417069468,
+  "CO2 Emissions tons in 2016": {
+    "$numberLong": "10432751400"
+  },
+  "Per capita": 7.44,
+  "Share of world": 29.18
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074d7"
+  },
+  "Country": "India",
+  "Energy Consumption BTU": {
+    "$numberLong": "30476788610000"
+  },
+  "World Share": 5.2,
+  "Per capita Yearly BTU": 22505,
+  "Undernourished  People": 194400000,
+  "Percent of Population": 14.2,
+  "Population in 2018": 1369003306,
+  "CO2 Emissions tons in 2016": {
+    "$numberLong": "2533638100"
+  },
+  "Per capita": 1.89,
+  "Share of world": 7.09
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074d8"
+  },
+  "Country": "Iran",
+  "Energy Consumption BTU": {
+    "$numberLong": "11599267500000"
+  },
+  "World Share": 2,
+  "Per capita Yearly BTU": 137261,
+  "Undernourished  People": 4000000,
+  "Percent of Population": 4.67,
+  "Population in 2018": 85617562,
+  "CO2 Emissions tons in 2016": 642560030,
+  "Per capita": 7.71,
+  "Share of world": 1.8
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074d9"
+  },
+  "Country": "Saudi Arabia",
+  "Energy Consumption BTU": {
+    "$numberLong": "10997456810000"
+  },
+  "World Share": 1.9,
+  "Per capita Yearly BTU": 321628,
+  "Undernourished  People": 2300000,
+  "Percent of Population": 6.57,
+  "Population in 2018": 35018133,
+  "CO2 Emissions tons in 2016": 517079407,
+  "Per capita": 15.47,
+  "Share of world": 1.45
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074da"
+  },
+  "Country": "Mexico",
+  "Energy Consumption BTU": {
+    "$numberLong": "7868848622000"
+  },
+  "World Share": 1.35118,
+  "Per capita Yearly BTU": 64058,
+  "Undernourished  People": 4700000,
+  "Percent of Population": 3.79,
+  "Population in 2018": 124013861,
+  "CO2 Emissions tons in 2016": 441412750,
+  "Per capita": 3.63,
+  "Share of world": 1.23
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074db"
+  },
+  "Country": "Indonesia",
+  "Energy Consumption BTU": {
+    "$numberLong": "7158688937000"
+  },
+  "World Share": 1.22924,
+  "Per capita Yearly BTU": 27065,
+  "Undernourished  People": 22000000,
+  "Percent of Population": 8.24,
+  "Population in 2018": 267066843,
+  "CO2 Emissions tons in 2016": 530035650,
+  "Per capita": 2.02,
+  "Share of world": 1.48
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074dc"
+  },
+  "Country": "South Africa",
+  "Energy Consumption BTU": {
+    "$numberLong": "5672958314000"
+  },
+  "World Share": 0.97412,
+  "Per capita Yearly BTU": 100156,
+  "Undernourished  People": 3500000,
+  "Percent of Population": 6.1,
+  "Population in 2018": 57339635,
+  "CO2 Emissions tons in 2016": 390557850,
+  "Per capita": 6.92,
+  "Share of world": 1.09
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074dd"
+  },
+  "Country": "Thailand",
+  "Energy Consumption BTU": {
+    "$numberLong": "5519011566000"
+  },
+  "World Share": 0.94769,
+  "Per capita Yearly BTU": 77844,
+  "Undernourished  People": 5400000,
+  "Percent of Population": 7.59,
+  "Population in 2018": 71127802,
+  "CO2 Emissions tons in 2016": 271040160,
+  "Per capita": 3.84,
+  "Share of world": 0.76
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074de"
+  },
+  "Country": "Taiwan",
+  "Energy Consumption BTU": {
+    "$numberLong": "4672849385000"
+  },
+  "World Share": 0.80239,
+  "Per capita Yearly BTU": 197458,
+  "Undernourished  People": 800000,
+  "Percent of Population": 3.37,
+  "Population in 2018": 23726185,
+  "CO2 Emissions tons in 2016": 276724868,
+  "Per capita": 11.73,
+  "Share of world": 0.77
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074df"
+  },
+  "Country": "United Arab Emirates",
+  "Energy Consumption BTU": {
+    "$numberLong": "4667004234000"
+  },
+  "World Share": 0.80138,
+  "Per capita Yearly BTU": 514651,
+  "Undernourished  People": 200000,
+  "Percent of Population": 2.19,
+  "Population in 2018": 9140169,
+  "CO2 Emissions tons in 2016": 218788684,
+  "Per capita": 24.33,
+  "Share of world": 0.61
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e0"
+  },
+  "Country": "Egypt",
+  "Energy Consumption BTU": {
+    "$numberLong": "4012356526000"
+  },
+  "World Share": 0.68897,
+  "Per capita Yearly BTU": 39418,
+  "Undernourished  People": 4400000,
+  "Percent of Population": 4.24,
+  "Population in 2018": 103740765,
+  "CO2 Emissions tons in 2016": 219377350,
+  "Per capita": 2.2,
+  "Share of world": 0.61
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e1"
+  },
+  "Country": "Argentina",
+  "Energy Consumption BTU": {
+    "$numberLong": "3867523595000"
+  },
+  "World Share": 0.6641,
+  "Per capita Yearly BTU": 87789,
+  "Undernourished  People": 2100000,
+  "Percent of Population": 4.73,
+  "Population in 2018": 44413596,
+  "CO2 Emissions tons in 2016": 200708270,
+  "Per capita": 4.6,
+  "Share of world": 0.56
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e2"
+  },
+  "Country": "Ukraine",
+  "Energy Consumption BTU": {
+    "$numberLong": "3632194307000"
+  },
+  "World Share": 0.62369,
+  "Per capita Yearly BTU": 81335,
+  "Undernourished  People": 1500000,
+  "Percent of Population": 3.37,
+  "Population in 2018": 44446954,
+  "CO2 Emissions tons in 2016": 233220080,
+  "Per capita": 5.2,
+  "Share of world": 0.65
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e3"
+  },
+  "Country": "Malaysia",
+  "Energy Consumption BTU": {
+    "$numberLong": "3515197470000"
+  },
+  "World Share": 0.6036,
+  "Per capita Yearly BTU": 109933,
+  "Undernourished  People": 800000,
+  "Percent of Population": 2.47,
+  "Population in 2018": 32399271,
+  "CO2 Emissions tons in 2016": 266251542,
+  "Per capita": 8.45,
+  "Share of world": 0.74
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e4"
+  },
+  "Country": "Vietnam",
+  "Energy Consumption BTU": {
+    "$numberLong": "3242513713000"
+  },
+  "World Share": 0.55678,
+  "Per capita Yearly BTU": 34483,
+  "Undernourished  People": 8800000,
+  "Percent of Population": 9.27,
+  "Population in 2018": 94914330,
+  "CO2 Emissions tons in 2016": 206042140,
+  "Per capita": 2.21,
+  "Share of world": 0.58
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e5"
+  },
+  "Country": "Pakistan",
+  "Energy Consumption BTU": {
+    "$numberLong": "3183442105000"
+  },
+  "World Share": 0.54664,
+  "Per capita Yearly BTU": 14712,
+  "Undernourished  People": 40000000,
+  "Percent of Population": 18.2,
+  "Population in 2018": 219731479,
+  "CO2 Emissions tons in 2016": 178013820,
+  "Per capita": 0.83,
+  "Share of world": 0.5
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e6"
+  },
+  "Country": "Venezuela",
+  "Energy Consumption BTU": {
+    "$numberLong": "2492568948000"
+  },
+  "World Share": 0.42801,
+  "Per capita Yearly BTU": 81554,
+  "Undernourished  People": 6800000,
+  "Percent of Population": 22.8,
+  "Population in 2018": 29825653,
+  "CO2 Emissions tons in 2016": 175884256,
+  "Per capita": 5.72,
+  "Share of world": 0.49
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e7"
+  },
+  "Country": "Algeria",
+  "Energy Consumption BTU": {
+    "$numberLong": "2398447784000"
+  },
+  "World Share": 0.41184,
+  "Per capita Yearly BTU": 58305,
+  "Undernourished  People": 1600000,
+  "Percent of Population": 3.82,
+  "Population in 2018": 41927007,
+  "CO2 Emissions tons in 2016": 156220560,
+  "Per capita": 3.87,
+  "Share of world": 0.44
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e8"
+  },
+  "Country": "Iraq",
+  "Energy Consumption BTU": {
+    "$numberLong": "1865888786000"
+  },
+  "World Share": 0.3204,
+  "Per capita Yearly BTU": 47093,
+  "Undernourished  People": 11100000,
+  "Percent of Population": 27.35,
+  "Population in 2018": 40590700,
+  "CO2 Emissions tons in 2016": 162646160,
+  "Per capita": 4.2,
+  "Share of world": 0.45
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074e9"
+  },
+  "Country": "Philippines",
+  "Energy Consumption BTU": {
+    "$numberLong": "1832128988000"
+  },
+  "World Share": 0.3146,
+  "Per capita Yearly BTU": 17165,
+  "Undernourished  People": 13900000,
+  "Percent of Population": 12.8,
+  "Population in 2018": 108568836,
+  "CO2 Emissions tons in 2016": 126922662,
+  "Per capita": 1.21,
+  "Share of world": 0.35
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074ea"
+  },
+  "Country": "Uzbekistan",
+  "Energy Consumption BTU": {
+    "$numberLong": "1798254680000"
+  },
+  "World Share": 0.30878,
+  "Per capita Yearly BTU": 56291,
+  "Undernourished  People": 2000000,
+  "Percent of Population": 6.16,
+  "Population in 2018": 32449576,
+  "CO2 Emissions tons in 2016": 109347340,
+  "Per capita": 3.48,
+  "Share of world": 0.31
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074eb"
+  },
+  "Country": "Turkmenistan",
+  "Energy Consumption BTU": {
+    "$numberLong": "1747505385000"
+  },
+  "World Share": 0.30007,
+  "Per capita Yearly BTU": 292794,
+  "Undernourished  People": 300000,
+  "Percent of Population": 4.95,
+  "Population in 2018": 6065066,
+  "CO2 Emissions tons in 2016": 79279216,
+  "Per capita": 13.51,
+  "Share of world": 0.22
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074ec"
+  },
+  "Country": "Colombia",
+  "Energy Consumption BTU": {
+    "$numberLong": "1660776722000"
+  },
+  "World Share": 0.28518,
+  "Per capita Yearly BTU": 34348,
+  "Undernourished  People": 2400000,
+  "Percent of Population": 4.87,
+  "Population in 2018": 49276961,
+  "CO2 Emissions tons in 2016": 77667594,
+  "Per capita": 1.63,
+  "Share of world": 0.22
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074ed"
+  },
+  "Country": "Kuwait",
+  "Energy Consumption BTU": {
+    "$numberLong": "1591008895000"
+  },
+  "World Share": 0.2732,
+  "Per capita Yearly BTU": 385708,
+  "Undernourished  People": 100000,
+  "Percent of Population": 2.32,
+  "Population in 2018": 4317185,
+  "CO2 Emissions tons in 2016": 101492225,
+  "Per capita": 25.07,
+  "Share of world": 0.28
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074ee"
+  },
+  "Country": "Nigeria",
+  "Energy Consumption BTU": {
+    "$numberLong": "1540259766000"
+  },
+  "World Share": 0.26448,
+  "Per capita Yearly BTU": 7960,
+  "Undernourished  People": 25600000,
+  "Percent of Population": 12.9,
+  "Population in 2018": 198387623,
+  "CO2 Emissions tons in 2016": 82634214,
+  "Per capita": 0.44,
+  "Share of world": 0.23
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074ef"
+  },
+  "Country": "Chile",
+  "Energy Consumption BTU": {
+    "$numberLong": "1496140520000"
+  },
+  "World Share": 0.25691,
+  "Per capita Yearly BTU": 81451,
+  "Undernourished  People": 500000,
+  "Percent of Population": 2.67,
+  "Population in 2018": 18701450,
+  "CO2 Emissions tons in 2016": 81258525,
+  "Per capita": 4.49,
+  "Share of world": 0.23
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f0"
+  },
+  "Country": "Bangladesh",
+  "Energy Consumption BTU": {
+    "$numberLong": "1417359711000"
+  },
+  "World Share": 0.24338,
+  "Per capita Yearly BTU": 8760,
+  "Undernourished  People": 24200000,
+  "Percent of Population": 14.78,
+  "Population in 2018": 163683958,
+  "CO2 Emissions tons in 2016": 74476230,
+  "Per capita": 0.47,
+  "Share of world": 0.21
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f1"
+  },
+  "Country": "Oman",
+  "Energy Consumption BTU": {
+    "$numberLong": "1140750863000"
+  },
+  "World Share": 0.19588,
+  "Per capita Yearly BTU": 251164,
+  "Undernourished  People": 300000,
+  "Percent of Population": 6.52,
+  "Population in 2018": 4601157,
+  "CO2 Emissions tons in 2016": 87835773,
+  "Per capita": 19.97,
+  "Share of world": 0.25
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f2"
+  },
+  "Country": "Peru",
+  "Energy Consumption BTU": {
+    "$numberLong": "1118522631000"
+  },
+  "World Share": 0.19206,
+  "Per capita Yearly BTU": 35390,
+  "Undernourished  People": 3100000,
+  "Percent of Population": 9.63,
+  "Population in 2018": 32203944,
+  "CO2 Emissions tons in 2016": 57692879,
+  "Per capita": 1.85,
+  "Share of world": 0.16
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f3"
+  },
+  "Country": "Trinidad and Tobago",
+  "Energy Consumption BTU": {
+    "$numberLong": "903828800000"
+  },
+  "World Share": 0.1552,
+  "Per capita Yearly BTU": 611270,
+  "Undernourished  People": 50000,
+  "Percent of Population": 3.32,
+  "Population in 2018": 1504709,
+  "CO2 Emissions tons in 2016": 34974263,
+  "Per capita": 23.8,
+  "Share of world": 0.1
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f4"
+  },
+  "Country": "Morocco",
+  "Energy Consumption BTU": {
+    "$numberLong": "819433637000"
+  },
+  "World Share": 0.1407,
+  "Per capita Yearly BTU": 23064,
+  "Undernourished  People": 1200000,
+  "Percent of Population": 3.34,
+  "Population in 2018": 35927511,
+  "CO2 Emissions tons in 2016": 57694464,
+  "Per capita": 1.64,
+  "Share of world": 0.16
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f5"
+  },
+  "Country": "Bulgaria",
+  "Energy Consumption BTU": {
+    "$numberLong": "774428141000"
+  },
+  "World Share": 0.133,
+  "Per capita Yearly BTU": 107823,
+  "Undernourished  People": 300000,
+  "Percent of Population": 4.22,
+  "Population in 2018": 7117431,
+  "CO2 Emissions tons in 2016": 50872910,
+  "Per capita": 7.02,
+  "Share of world": 0.14
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f6"
+  },
+  "Country": "Slovakia",
+  "Energy Consumption BTU": {
+    "$numberLong": "726428917000"
+  },
+  "World Share": 0.1247,
+  "Per capita Yearly BTU": 133549,
+  "Undernourished  People": 200000,
+  "Percent of Population": 3.67,
+  "Population in 2018": 5446745,
+  "CO2 Emissions tons in 2016": 36817242,
+  "Per capita": 6.78,
+  "Share of world": 0.1
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f7"
+  },
+  "Country": "Ecuador",
+  "Energy Consumption BTU": {
+    "$numberLong": "714684386000"
+  },
+  "World Share": 0.1227,
+  "Per capita Yearly BTU": 42803,
+  "Undernourished  People": 1300000,
+  "Percent of Population": 7.64,
+  "Population in 2018": 17015672,
+  "CO2 Emissions tons in 2016": 40065690,
+  "Per capita": 2.44,
+  "Share of world": 0.11
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f8"
+  },
+  "Country": "Serbia",
+  "Energy Consumption BTU": {
+    "$numberLong": "642180713000"
+  },
+  "World Share": 0.1103,
+  "Per capita Yearly BTU": 86027,
+  "Undernourished  People": 500000,
+  "Percent of Population": 6.73,
+  "Population in 2018": 7433818,
+  "CO2 Emissions tons in 2016": 41168059,
+  "Per capita": 5.49,
+  "Share of world": 0.12
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074f9"
+  },
+  "Country": "Myanmar",
+  "Energy Consumption BTU": {
+    "$numberLong": "518785351000"
+  },
+  "World Share": 0.0891,
+  "Per capita Yearly BTU": 9922,
+  "Undernourished  People": 5700000,
+  "Percent of Population": 10.82,
+  "Population in 2018": 52666014,
+  "CO2 Emissions tons in 2016": 16701776,
+  "Per capita": 0.32,
+  "Share of world": 0.05
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074fa"
+  },
+  "Country": "Paraguay",
+  "Energy Consumption BTU": {
+    "$numberLong": "518686518000"
+  },
+  "World Share": 0.0891,
+  "Per capita Yearly BTU": 81613,
+  "Undernourished  People": 700000,
+  "Percent of Population": 10.86,
+  "Population in 2018": 6443328,
+  "CO2 Emissions tons in 2016": 5998469,
+  "Per capita": 0.96,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074fb"
+  },
+  "Country": "Panama",
+  "Energy Consumption BTU": {
+    "$numberLong": "439309187000"
+  },
+  "World Share": 0.0754,
+  "Per capita Yearly BTU": 107252,
+  "Undernourished  People": 400000,
+  "Percent of Population": 9.6,
+  "Population in 2018": 4165255,
+  "CO2 Emissions tons in 2016": 11599764,
+  "Per capita": 2.88,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074fc"
+  },
+  "Country": "Jordan",
+  "Energy Consumption BTU": {
+    "$numberLong": "431068663000"
+  },
+  "World Share": 0.074,
+  "Per capita Yearly BTU": 42198,
+  "Undernourished  People": 1200000,
+  "Percent of Population": 11.47,
+  "Population in 2018": 10459865,
+  "CO2 Emissions tons in 2016": 22772370,
+  "Per capita": 2.29,
+  "Share of world": 0.06
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074fd"
+  },
+  "Country": "Tunisia",
+  "Energy Consumption BTU": {
+    "$numberLong": "408467388000"
+  },
+  "World Share": 0.0701,
+  "Per capita Yearly BTU": 34582,
+  "Undernourished  People": 500000,
+  "Percent of Population": 4.19,
+  "Population in 2018": 11933041,
+  "CO2 Emissions tons in 2016": 29395965,
+  "Per capita": 2.52,
+  "Share of world": 0.08
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074fe"
+  },
+  "Country": "Laos",
+  "Energy Consumption BTU": {
+    "$numberLong": "405305758000"
+  },
+  "World Share": 0.0696,
+  "Per capita Yearly BTU": 57918,
+  "Undernourished  People": 1100000,
+  "Percent of Population": 15.48,
+  "Population in 2018": 7105006,
+  "CO2 Emissions tons in 2016": 4531276,
+  "Per capita": 0.66,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f7074ff"
+  },
+  "Country": "Sri Lanka",
+  "Energy Consumption BTU": {
+    "$numberLong": "383419865000"
+  },
+  "World Share": 0.0658,
+  "Per capita Yearly BTU": 17828,
+  "Undernourished  People": 1900000,
+  "Percent of Population": 8.8,
+  "Population in 2018": 21580710,
+  "CO2 Emissions tons in 2016": 18454691,
+  "Per capita": 0.86,
+  "Share of world": 0.05
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707500"
+  },
+  "Country": "Lebanon",
+  "Energy Consumption BTU": {
+    "$numberLong": "375787371000"
+  },
+  "World Share": 0.0645,
+  "Per capita Yearly BTU": 61511,
+  "Undernourished  People": 700000,
+  "Percent of Population": 11.76,
+  "Population in 2018": 5950839,
+  "CO2 Emissions tons in 2016": 21863288,
+  "Per capita": 3.49,
+  "Share of world": 0.06
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707501"
+  },
+  "Country": "Sudan",
+  "Energy Consumption BTU": {
+    "$numberLong": "368304194000"
+  },
+  "World Share": 0.0632,
+  "Per capita Yearly BTU": 9054,
+  "Undernourished  People": 8200000,
+  "Percent of Population": 19.52,
+  "Population in 2018": 41999059,
+  "CO2 Emissions tons in 2016": 13294106,
+  "Per capita": 0.34,
+  "Share of world": 0.04
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707502"
+  },
+  "Country": "Angola",
+  "Energy Consumption BTU": {
+    "$numberLong": "362803130000"
+  },
+  "World Share": 0.0623,
+  "Per capita Yearly BTU": 12010,
+  "Undernourished  People": 7400000,
+  "Percent of Population": 23.66,
+  "Population in 2018": 31273533,
+  "CO2 Emissions tons in 2016": 30566933,
+  "Per capita": 1.05,
+  "Share of world": 0.09
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707503"
+  },
+  "Country": "Bolivia",
+  "Energy Consumption BTU": {
+    "$numberLong": "343353846000"
+  },
+  "World Share": 0.059,
+  "Per capita Yearly BTU": 30025,
+  "Undernourished  People": 1900000,
+  "Percent of Population": 16.37,
+  "Population in 2018": 11606905,
+  "CO2 Emissions tons in 2016": 19463728,
+  "Per capita": 1.73,
+  "Share of world": 0.05
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707504"
+  },
+  "Country": "Dominican Republic",
+  "Energy Consumption BTU": {
+    "$numberLong": "340462946000"
+  },
+  "World Share": 0.0585,
+  "Per capita Yearly BTU": 31977,
+  "Undernourished  People": 1000000,
+  "Percent of Population": 9.29,
+  "Population in 2018": 10765531,
+  "CO2 Emissions tons in 2016": 23466740,
+  "Per capita": 2.23,
+  "Share of world": 0.07
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707505"
+  },
+  "Country": "North Korea",
+  "Energy Consumption BTU": {
+    "$numberLong": "330338632000"
+  },
+  "World Share": 0.0567,
+  "Per capita Yearly BTU": 12946,
+  "Undernourished  People": 12200000,
+  "Percent of Population": 47.59,
+  "Population in 2018": 25638149,
+  "CO2 Emissions tons in 2016": 58708734,
+  "Per capita": 2.31,
+  "Share of world": 0.16
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707506"
+  },
+  "Country": "Ethiopia",
+  "Energy Consumption BTU": {
+    "$numberLong": "323534822000"
+  },
+  "World Share": 0.0556,
+  "Per capita Yearly BTU": 2990,
+  "Undernourished  People": 21600000,
+  "Percent of Population": 19.44,
+  "Population in 2018": 111129438,
+  "CO2 Emissions tons in 2016": 10438855,
+  "Per capita": 0.1,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707507"
+  },
+  "Country": "Kenya",
+  "Energy Consumption BTU": {
+    "$numberLong": "322257801000"
+  },
+  "World Share": 0.0553,
+  "Per capita Yearly BTU": 6584,
+  "Undernourished  People": 14600000,
+  "Percent of Population": 29.23,
+  "Population in 2018": 49953304,
+  "CO2 Emissions tons in 2016": 16334919,
+  "Per capita": 0.34,
+  "Share of world": 0.05
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707508"
+  },
+  "Country": "Guatemala",
+  "Energy Consumption BTU": {
+    "$numberLong": "316468042000"
+  },
+  "World Share": 0.0543,
+  "Per capita Yearly BTU": 19089,
+  "Undernourished  People": 2600000,
+  "Percent of Population": 15.43,
+  "Population in 2018": 16850176,
+  "CO2 Emissions tons in 2016": 18539316,
+  "Per capita": 1.14,
+  "Share of world": 0.05
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707509"
+  },
+  "Country": "Mozambique",
+  "Energy Consumption BTU": {
+    "$numberLong": "287958923000"
+  },
+  "World Share": 0.0494,
+  "Per capita Yearly BTU": 10079,
+  "Undernourished  People": 8300000,
+  "Percent of Population": 28.21,
+  "Population in 2018": 29423878,
+  "CO2 Emissions tons in 2016": 5859171,
+  "Per capita": 0.21,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70750a"
+  },
+  "Country": "Tanzania",
+  "Energy Consumption BTU": {
+    "$numberLong": "287390572000"
+  },
+  "World Share": 0.0493,
+  "Per capita Yearly BTU": 5108,
+  "Undernourished  People": 17600000,
+  "Percent of Population": 30.3,
+  "Population in 2018": 58090443,
+  "CO2 Emissions tons in 2016": 9731560,
+  "Per capita": 0.18,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70750b"
+  },
+  "Country": "Ghana",
+  "Energy Consumption BTU": {
+    "$numberLong": "273724117000"
+  },
+  "World Share": 0.047,
+  "Per capita Yearly BTU": 9057,
+  "Undernourished  People": 1600000,
+  "Percent of Population": 5.18,
+  "Population in 2018": 30870641,
+  "CO2 Emissions tons in 2016": 14469986,
+  "Per capita": 0.49,
+  "Share of world": 0.04
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70750c"
+  },
+  "Country": "Georgia",
+  "Energy Consumption BTU": {
+    "$numberLong": "246271262000"
+  },
+  "World Share": 0.0423,
+  "Per capita Yearly BTU": 65291,
+  "Undernourished  People": 300000,
+  "Percent of Population": 7.95,
+  "Population in 2018": 3772325,
+  "CO2 Emissions tons in 2016": 8610414,
+  "Per capita": 2.28,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70750d"
+  },
+  "Country": "Kyrgyzstan",
+  "Energy Consumption BTU": {
+    "$numberLong": "241995314000"
+  },
+  "World Share": 0.0416,
+  "Per capita Yearly BTU": 39534,
+  "Undernourished  People": 400000,
+  "Percent of Population": 6.43,
+  "Population in 2018": 6223494,
+  "CO2 Emissions tons in 2016": 6941784,
+  "Per capita": 1.15,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70750e"
+  },
+  "Country": "Mongolia",
+  "Energy Consumption BTU": {
+    "$numberLong": "215493720000"
+  },
+  "World Share": 0.037,
+  "Per capita Yearly BTU": 69603,
+  "Undernourished  People": 400000,
+  "Percent of Population": 12.64,
+  "Population in 2018": 3163991,
+  "CO2 Emissions tons in 2016": 18574260,
+  "Per capita": 6.13,
+  "Share of world": 0.05
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70750f"
+  },
+  "Country": "Costa Rica",
+  "Energy Consumption BTU": {
+    "$numberLong": "214062173000"
+  },
+  "World Share": 0.0368,
+  "Per capita Yearly BTU": 42865,
+  "Undernourished  People": 200000,
+  "Percent of Population": 3.97,
+  "Population in 2018": 5040734,
+  "CO2 Emissions tons in 2016": 8328890,
+  "Per capita": 1.68,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707510"
+  },
+  "Country": "Côte d'Ivoire",
+  "Energy Consumption BTU": {
+    "$numberLong": "178773633000"
+  },
+  "World Share": 0.0307,
+  "Per capita Yearly BTU": 7195,
+  "Undernourished  People": 4600000,
+  "Percent of Population": 18.04,
+  "Population in 2018": 25493988,
+  "CO2 Emissions tons in 2016": 10056492,
+  "Per capita": 0.42,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707511"
+  },
+  "Country": "Zambia",
+  "Energy Consumption BTU": {
+    "$numberLong": "177977721000"
+  },
+  "World Share": 0.0306,
+  "Per capita Yearly BTU": 10289,
+  "Undernourished  People": 8000000,
+  "Percent of Population": 44.85,
+  "Population in 2018": 17835893,
+  "CO2 Emissions tons in 2016": 4230584,
+  "Per capita": 0.25,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707512"
+  },
+  "Country": "Brunei ",
+  "Energy Consumption BTU": {
+    "$numberLong": "176864953000"
+  },
+  "World Share": 0.0304,
+  "Per capita Yearly BTU": 411050,
+  "Undernourished  People": 50000,
+  "Percent of Population": 11.51,
+  "Population in 2018": 434274,
+  "CO2 Emissions tons in 2016": 7672127,
+  "Per capita": 18.01,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707513"
+  },
+  "Country": "Honduras",
+  "Energy Consumption BTU": {
+    "$numberLong": "171400051000"
+  },
+  "World Share": 0.0294,
+  "Per capita Yearly BTU": 17804,
+  "Undernourished  People": 1200000,
+  "Percent of Population": 12.25,
+  "Population in 2018": 9792850,
+  "CO2 Emissions tons in 2016": 9320279,
+  "Per capita": 0.99,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707514"
+  },
+  "Country": "Cambodia",
+  "Energy Consumption BTU": {
+    "$numberLong": "168697663000"
+  },
+  "World Share": 0.029,
+  "Per capita Yearly BTU": 10656,
+  "Undernourished  People": 2600000,
+  "Percent of Population": 16.22,
+  "Population in 2018": 16025238,
+  "CO2 Emissions tons in 2016": 6496958,
+  "Per capita": 0.42,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707515"
+  },
+  "Country": "Nepal",
+  "Energy Consumption BTU": {
+    "$numberLong": "161222108000"
+  },
+  "World Share": 0.0277,
+  "Per capita Yearly BTU": 5720,
+  "Undernourished  People": 2500000,
+  "Percent of Population": 8.77,
+  "Population in 2018": 28506712,
+  "CO2 Emissions tons in 2016": 7833787,
+  "Per capita": 0.28,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707516"
+  },
+  "Country": "Zimbabwe",
+  "Energy Consumption BTU": {
+    "$numberLong": "158453760000"
+  },
+  "World Share": 0.0272,
+  "Per capita Yearly BTU": 10742,
+  "Undernourished  People": 8500000,
+  "Percent of Population": 56.47,
+  "Population in 2018": 15052184,
+  "CO2 Emissions tons in 2016": 10062628,
+  "Per capita": 0.7,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707517"
+  },
+  "Country": "Armenia",
+  "Energy Consumption BTU": {
+    "$numberLong": "148536904000"
+  },
+  "World Share": 0.0255,
+  "Per capita Yearly BTU": 52083,
+  "Undernourished  People": 100000,
+  "Percent of Population": 3.53,
+  "Population in 2018": 2836557,
+  "CO2 Emissions tons in 2016": 4597845,
+  "Per capita": 1.6,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707518"
+  },
+  "Country": "Cameroon",
+  "Energy Consumption BTU": {
+    "$numberLong": "147800591000"
+  },
+  "World Share": 0.0254,
+  "Per capita Yearly BTU": 6059,
+  "Undernourished  People": 2400000,
+  "Percent of Population": 9.57,
+  "Population in 2018": 25076747,
+  "CO2 Emissions tons in 2016": 9454331,
+  "Per capita": 0.4,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707519"
+  },
+  "Country": "Afghanistan",
+  "Energy Consumption BTU": {
+    "$numberLong": "144694375000"
+  },
+  "World Share": 0.0248,
+  "Per capita Yearly BTU": 4059,
+  "Undernourished  People": 10600000,
+  "Percent of Population": 28.89,
+  "Population in 2018": 36686784,
+  "CO2 Emissions tons in 2016": 9900004,
+  "Per capita": 0.29,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70751a"
+  },
+  "Country": "Yemen",
+  "Energy Consumption BTU": {
+    "$numberLong": "138496775000"
+  },
+  "World Share": 0.0238,
+  "Per capita Yearly BTU": 4611,
+  "Undernourished  People": 11000000,
+  "Percent of Population": 35.73,
+  "Population in 2018": 30790513,
+  "CO2 Emissions tons in 2016": 25647990,
+  "Per capita": 0.88,
+  "Share of world": 0.07
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70751b"
+  },
+  "Country": "El Salvador",
+  "Energy Consumption BTU": {
+    "$numberLong": "132276983000"
+  },
+  "World Share": 0.0227,
+  "Per capita Yearly BTU": 21108,
+  "Undernourished  People": 600000,
+  "Percent of Population": 9.56,
+  "Population in 2018": 6276342,
+  "CO2 Emissions tons in 2016": 6853766,
+  "Per capita": 1.1,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70751c"
+  },
+  "Country": "Senegal",
+  "Energy Consumption BTU": {
+    "$numberLong": "130707004000"
+  },
+  "World Share": 0.0224,
+  "Per capita Yearly BTU": 8623,
+  "Undernourished  People": 1800000,
+  "Percent of Population": 11.56,
+  "Population in 2018": 15574909,
+  "CO2 Emissions tons in 2016": 8247295,
+  "Per capita": 0.56,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70751d"
+  },
+  "Country": "Jamaica",
+  "Energy Consumption BTU": {
+    "$numberLong": "128130859000"
+  },
+  "World Share": 0.022,
+  "Per capita Yearly BTU": 45625,
+  "Undernourished  People": 200000,
+  "Percent of Population": 7.11,
+  "Population in 2018": 2811835,
+  "CO2 Emissions tons in 2016": 8946575,
+  "Per capita": 3.19,
+  "Share of world": 0.03
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70751e"
+  },
+  "Country": "Cyprus",
+  "Energy Consumption BTU": {
+    "$numberLong": "117196038000"
+  },
+  "World Share": 0.0201,
+  "Per capita Yearly BTU": 96975,
+  "Undernourished  People": 50000,
+  "Percent of Population": 4.1,
+  "Population in 2018": 1218831,
+  "CO2 Emissions tons in 2016": 6872427,
+  "Per capita": 5.74,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70751f"
+  },
+  "Country": "Albania",
+  "Energy Consumption BTU": {
+    "$numberLong": "111843460000"
+  },
+  "World Share": 0.0192,
+  "Per capita Yearly BTU": 38843,
+  "Undernourished  People": 200000,
+  "Percent of Population": 6.95,
+  "Population in 2018": 2877013,
+  "CO2 Emissions tons in 2016": 5208319,
+  "Per capita": 1.81,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707520"
+  },
+  "Country": "North Macedonia",
+  "Energy Consumption BTU": {
+    "$numberLong": "100005786000"
+  },
+  "World Share": 0.0172,
+  "Per capita Yearly BTU": 47352,
+  "Undernourished  People": 50000,
+  "Percent of Population": 2.37,
+  "Population in 2018": 2113491,
+  "CO2 Emissions tons in 2016": 8896732,
+  "Per capita": 4.22,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707521"
+  },
+  "Country": "Nicaragua",
+  "Energy Consumption BTU": {
+    "$numberLong": "98675888000"
+  },
+  "World Share": 0.01694,
+  "Per capita Yearly BTU": 15227,
+  "Undernourished  People": 1100000,
+  "Percent of Population": 16.74,
+  "Population in 2018": 6572233,
+  "CO2 Emissions tons in 2016": 5325447,
+  "Per capita": 0.83,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707522"
+  },
+  "Country": "Benin",
+  "Energy Consumption BTU": {
+    "$numberLong": "97181607000"
+  },
+  "World Share": 0.01669,
+  "Per capita Yearly BTU": 8380,
+  "Undernourished  People": 1100000,
+  "Percent of Population": 9.21,
+  "Population in 2018": 11940683,
+  "CO2 Emissions tons in 2016": 6563709,
+  "Per capita": 0.58,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707523"
+  },
+  "Country": "Uganda",
+  "Energy Consumption BTU": {
+    "$numberLong": "97180787000"
+  },
+  "World Share": 0.01669,
+  "Per capita Yearly BTU": 2422,
+  "Undernourished  People": 17600000,
+  "Percent of Population": 42.39,
+  "Population in 2018": 41515395,
+  "CO2 Emissions tons in 2016": 5009493,
+  "Per capita": 0.13,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707524"
+  },
+  "Country": "Botswana",
+  "Energy Consumption BTU": {
+    "$numberLong": "96035971000"
+  },
+  "World Share": 0.01649,
+  "Per capita Yearly BTU": 39984,
+  "Undernourished  People": 600000,
+  "Percent of Population": 24.48,
+  "Population in 2018": 2451409,
+  "CO2 Emissions tons in 2016": 6438429,
+  "Per capita": 2.74,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707525"
+  },
+  "Country": "Congo",
+  "Energy Consumption BTU": {
+    "$numberLong": "95621923000"
+  },
+  "World Share": 0.01642,
+  "Per capita Yearly BTU": 18000,
+  "Undernourished  People": 2100000,
+  "Percent of Population": 38.6,
+  "Population in 2018": 5441062,
+  "CO2 Emissions tons in 2016": 5212302,
+  "Per capita": 1,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707526"
+  },
+  "Country": "Mauritius",
+  "Energy Consumption BTU": {
+    "$numberLong": "90076344000"
+  },
+  "World Share": 0.01547,
+  "Per capita Yearly BTU": 69571,
+  "Undernourished  People": 50000,
+  "Percent of Population": 3.86,
+  "Population in 2018": 1295381,
+  "CO2 Emissions tons in 2016": 3192307,
+  "Per capita": 2.47,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707527"
+  },
+  "Country": "Estonia",
+  "Energy Consumption BTU": {
+    "$numberLong": "87785565000"
+  },
+  "World Share": 0.01507,
+  "Per capita Yearly BTU": 66628,
+  "Undernourished  People": 50000,
+  "Percent of Population": 3.78,
+  "Population in 2018": 1322148,
+  "CO2 Emissions tons in 2016": 22402414,
+  "Per capita": 17.02,
+  "Share of world": 0.06
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707528"
+  },
+  "Country": "Namibia",
+  "Energy Consumption BTU": {
+    "$numberLong": "79767587000"
+  },
+  "World Share": 0.0137,
+  "Per capita Yearly BTU": 33735,
+  "Undernourished  People": 700000,
+  "Percent of Population": 29.1,
+  "Population in 2018": 2405680,
+  "CO2 Emissions tons in 2016": 3901830,
+  "Per capita": 1.68,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707529"
+  },
+  "Country": "New Caledonia",
+  "Energy Consumption BTU": {
+    "$numberLong": "78485011000"
+  },
+  "World Share": 0.01348,
+  "Per capita Yearly BTU": 276016,
+  "Undernourished  People": 50000,
+  "Percent of Population": 17.55,
+  "Population in 2018": 284880,
+  "CO2 Emissions tons in 2016": 2338717,
+  "Per capita": 8.24,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70752a"
+  },
+  "Country": "Gabon",
+  "Energy Consumption BTU": {
+    "$numberLong": "68381605000"
+  },
+  "World Share": 0.01174,
+  "Per capita Yearly BTU": 31951,
+  "Undernourished  People": 200000,
+  "Percent of Population": 9.12,
+  "Population in 2018": 2192012,
+  "CO2 Emissions tons in 2016": 5694208,
+  "Per capita": 2.73,
+  "Share of world": 0.02
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70752b"
+  },
+  "Country": "Mali",
+  "Energy Consumption BTU": {
+    "$numberLong": "60540614000"
+  },
+  "World Share": 0.0104,
+  "Per capita Yearly BTU": 3135,
+  "Undernourished  People": 1200000,
+  "Percent of Population": 6.02,
+  "Population in 2018": 19934298,
+  "CO2 Emissions tons in 2016": 1606421,
+  "Per capita": 0.09,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70752c"
+  },
+  "Country": "Madagascar",
+  "Energy Consumption BTU": {
+    "$numberLong": "54364625000"
+  },
+  "World Share": 0.00934,
+  "Per capita Yearly BTU": 2077,
+  "Undernourished  People": 11400000,
+  "Percent of Population": 42.46,
+  "Population in 2018": 26846541,
+  "CO2 Emissions tons in 2016": 3026047,
+  "Per capita": 0.12,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70752d"
+  },
+  "Country": "Burkina Faso",
+  "Energy Consumption BTU": {
+    "$numberLong": "49416394000"
+  },
+  "World Share": 0.00849,
+  "Per capita Yearly BTU": 2491,
+  "Undernourished  People": 3800000,
+  "Percent of Population": 18.63,
+  "Population in 2018": 20392723,
+  "CO2 Emissions tons in 2016": 2352070,
+  "Per capita": 0.12,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70752e"
+  },
+  "Country": "Macao",
+  "Energy Consumption BTU": {
+    "$numberLong": "48682524000"
+  },
+  "World Share": 0.00836,
+  "Per capita Yearly BTU": 76232,
+  "Undernourished  People": 50000,
+  "Percent of Population": 7.68,
+  "Population in 2018": 650991,
+  "CO2 Emissions tons in 2016": 3106518,
+  "Per capita": 4.96,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70752f"
+  },
+  "Country": "Haiti",
+  "Energy Consumption BTU": {
+    "$numberLong": "48163170000"
+  },
+  "World Share": 0.00827,
+  "Per capita Yearly BTU": 4433,
+  "Undernourished  People": 5400000,
+  "Percent of Population": 49.04,
+  "Population in 2018": 11012421,
+  "CO2 Emissions tons in 2016": 3086897,
+  "Per capita": 0.29,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707530"
+  },
+  "Country": "Guinea",
+  "Energy Consumption BTU": {
+    "$numberLong": "48146986000"
+  },
+  "World Share": 0.00827,
+  "Per capita Yearly BTU": 3933,
+  "Undernourished  People": 2100000,
+  "Percent of Population": 16.73,
+  "Population in 2018": 12554864,
+  "CO2 Emissions tons in 2016": 2071798,
+  "Per capita": 0.17,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707531"
+  },
+  "Country": "Togo",
+  "Energy Consumption BTU": {
+    "$numberLong": "41108083000"
+  },
+  "World Share": 0.00706,
+  "Per capita Yearly BTU": 5235,
+  "Undernourished  People": 1300000,
+  "Percent of Population": 16.16,
+  "Population in 2018": 8046679,
+  "CO2 Emissions tons in 2016": 2321546,
+  "Per capita": 0.3,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707532"
+  },
+  "Country": "Mauritania",
+  "Energy Consumption BTU": {
+    "$numberLong": "39378962000"
+  },
+  "World Share": 0.00676,
+  "Per capita Yearly BTU": 9466,
+  "Undernourished  People": 500000,
+  "Percent of Population": 11.71,
+  "Population in 2018": 4270712,
+  "CO2 Emissions tons in 2016": 2564345,
+  "Per capita": 0.63,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707533"
+  },
+  "Country": "Fiji",
+  "Energy Consumption BTU": {
+    "$numberLong": "38870204000"
+  },
+  "World Share": 0.00667,
+  "Per capita Yearly BTU": 42295,
+  "Undernourished  People": 50000,
+  "Percent of Population": 5.44,
+  "Population in 2018": 918996,
+  "CO2 Emissions tons in 2016": 1703193,
+  "Per capita": 1.85,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707534"
+  },
+  "Country": "Suriname",
+  "Energy Consumption BTU": {
+    "$numberLong": "38652993000"
+  },
+  "World Share": 0.00664,
+  "Per capita Yearly BTU": 65786,
+  "Undernourished  People": 50000,
+  "Percent of Population": 8.42,
+  "Population in 2018": 593715,
+  "CO2 Emissions tons in 2016": 2152933,
+  "Per capita": 3.7,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707535"
+  },
+  "Country": "Niger",
+  "Energy Consumption BTU": {
+    "$numberLong": "34310284000"
+  },
+  "World Share": 0.00589,
+  "Per capita Yearly BTU": 1578,
+  "Undernourished  People": 3600000,
+  "Percent of Population": 15.95,
+  "Population in 2018": 22577058,
+  "CO2 Emissions tons in 2016": 2088475,
+  "Per capita": 0.1,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707536"
+  },
+  "Country": "Malawi",
+  "Energy Consumption BTU": {
+    "$numberLong": "31388331000"
+  },
+  "World Share": 0.00539,
+  "Per capita Yearly BTU": 1755,
+  "Undernourished  People": 3300000,
+  "Percent of Population": 17.97,
+  "Population in 2018": 18367883,
+  "CO2 Emissions tons in 2016": 1815598,
+  "Per capita": 0.1,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707537"
+  },
+  "Country": "Guyana",
+  "Energy Consumption BTU": {
+    "$numberLong": "30165867000"
+  },
+  "World Share": 0.00518,
+  "Per capita Yearly BTU": 39523,
+  "Undernourished  People": 50000,
+  "Percent of Population": 6.37,
+  "Population in 2018": 785514,
+  "CO2 Emissions tons in 2016": 3253057,
+  "Per capita": 4.29,
+  "Share of world": 0.01
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707538"
+  },
+  "Country": "Barbados",
+  "Energy Consumption BTU": {
+    "$numberLong": "24763656000"
+  },
+  "World Share": 0.00425,
+  "Per capita Yearly BTU": 88699,
+  "Undernourished  People": 50000,
+  "Percent of Population": 17.88,
+  "Population in 2018": 279688,
+  "CO2 Emissions tons in 2016": 1541447,
+  "Per capita": 5.53,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707539"
+  },
+  "Country": "Maldives",
+  "Energy Consumption BTU": {
+    "$numberLong": "24704426000"
+  },
+  "World Share": 0.00424,
+  "Per capita Yearly BTU": 52291,
+  "Undernourished  People": 50000,
+  "Percent of Population": 10.21,
+  "Population in 2018": 489758,
+  "CO2 Emissions tons in 2016": 1233015,
+  "Per capita": 2.71,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70753a"
+  },
+  "Country": "Eswatini",
+  "Energy Consumption BTU": {
+    "$numberLong": "20439383000"
+  },
+  "World Share": 0.00351,
+  "Per capita Yearly BTU": 17752,
+  "Undernourished  People": 300000,
+  "Percent of Population": 25.85,
+  "Population in 2018": 1160428,
+  "CO2 Emissions tons in 2016": 657572,
+  "Per capita": 0.58,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70753b"
+  },
+  "Country": "Liberia",
+  "Energy Consumption BTU": {
+    "$numberLong": "16601000000"
+  },
+  "World Share": 0.00285,
+  "Per capita Yearly BTU": 3461,
+  "Undernourished  People": 1800000,
+  "Percent of Population": 36.81,
+  "Population in 2018": 4889391,
+  "CO2 Emissions tons in 2016": 846658,
+  "Per capita": 0.18,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70753c"
+  },
+  "Country": "Rwanda",
+  "Energy Consumption BTU": {
+    "$numberLong": "15834435000"
+  },
+  "World Share": 0.00272,
+  "Per capita Yearly BTU": 1295,
+  "Undernourished  People": 4500000,
+  "Percent of Population": 35.91,
+  "Population in 2018": 12531808,
+  "CO2 Emissions tons in 2016": 1403087,
+  "Per capita": 0.12,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70753d"
+  },
+  "Country": "Lesotho",
+  "Energy Consumption BTU": {
+    "$numberLong": "15324212000"
+  },
+  "World Share": 0.00263,
+  "Per capita Yearly BTU": 7060,
+  "Undernourished  People": 300000,
+  "Percent of Population": 13.65,
+  "Population in 2018": 2198017,
+  "CO2 Emissions tons in 2016": 318438,
+  "Per capita": 0.15,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70753e"
+  },
+  "Country": "French Polynesia",
+  "Energy Consumption BTU": {
+    "$numberLong": "15199494000"
+  },
+  "World Share": 0.00261,
+  "Per capita Yearly BTU": 51445,
+  "Undernourished  People": 50000,
+  "Percent of Population": 16.8,
+  "Population in 2018": 297606,
+  "CO2 Emissions tons in 2016": 1003249,
+  "Per capita": 3.42,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70753f"
+  },
+  "Country": "Sierra Leone",
+  "Energy Consumption BTU": {
+    "$numberLong": "13386542000"
+  },
+  "World Share": 0.0023,
+  "Per capita Yearly BTU": 1744,
+  "Undernourished  People": 1900000,
+  "Percent of Population": 24.17,
+  "Population in 2018": 7861281,
+  "CO2 Emissions tons in 2016": 1272332,
+  "Per capita": 0.17,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707540"
+  },
+  "Country": "Belize",
+  "Energy Consumption BTU": {
+    "$numberLong": "12727469000"
+  },
+  "World Share": 0.00219,
+  "Per capita Yearly BTU": 33968,
+  "Undernourished  People": 50000,
+  "Percent of Population": 13.09,
+  "Population in 2018": 382066,
+  "CO2 Emissions tons in 2016": 1114105,
+  "Per capita": 3.03,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707541"
+  },
+  "Country": "Cabo Verde",
+  "Energy Consumption BTU": {
+    "$numberLong": "12660679000"
+  },
+  "World Share": 0.00217,
+  "Per capita Yearly BTU": 22410,
+  "Undernourished  People": 50000,
+  "Percent of Population": 8.75,
+  "Population in 2018": 571202,
+  "CO2 Emissions tons in 2016": 99687,
+  "Per capita": 0.18,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707542"
+  },
+  "Country": "Djibouti",
+  "Energy Consumption BTU": {
+    "$numberLong": "12152607000"
+  },
+  "World Share": 0.00209,
+  "Per capita Yearly BTU": 11683,
+  "Undernourished  People": 200000,
+  "Percent of Population": 18.92,
+  "Population in 2018": 1057198,
+  "CO2 Emissions tons in 2016": 1508851,
+  "Per capita": 1.47,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707543"
+  },
+  "Country": "Timor-Leste",
+  "Energy Consumption BTU": {
+    "$numberLong": "8615000000"
+  },
+  "World Share": 0.00148,
+  "Per capita Yearly BTU": 6930,
+  "Undernourished  People": 300000,
+  "Percent of Population": 23.77,
+  "Population in 2018": 1261845,
+  "CO2 Emissions tons in 2016": 495687,
+  "Per capita": 0.4,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707544"
+  },
+  "Country": "Gambia",
+  "Energy Consumption BTU": {
+    "$numberLong": "7564000000"
+  },
+  "World Share": 0.0013,
+  "Per capita Yearly BTU": 3177,
+  "Undernourished  People": 200000,
+  "Percent of Population": 8.18,
+  "Population in 2018": 2444916,
+  "CO2 Emissions tons in 2016": 254127,
+  "Per capita": 0.11,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707545"
+  },
+  "Country": "Central African Republic",
+  "Energy Consumption BTU": {
+    "$numberLong": "7065635000"
+  },
+  "World Share": 0.00121,
+  "Per capita Yearly BTU": 1414,
+  "Undernourished  People": 2800000,
+  "Percent of Population": 54.96,
+  "Population in 2018": 5094780,
+  "CO2 Emissions tons in 2016": 543229,
+  "Per capita": 0.11,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707546"
+  },
+  "Country": "Samoa",
+  "Energy Consumption BTU": {
+    "$numberLong": "5672659000"
+  },
+  "World Share": 0.00097,
+  "Per capita Yearly BTU": 27321,
+  "Undernourished  People": 50000,
+  "Percent of Population": 23.84,
+  "Population in 2018": 209701,
+  "CO2 Emissions tons in 2016": 169939,
+  "Per capita": 0.83,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707547"
+  },
+  "Country": "Chad",
+  "Energy Consumption BTU": {
+    "$numberLong": "4879681000"
+  },
+  "World Share": 0.00084,
+  "Per capita Yearly BTU": 323,
+  "Undernourished  People": 5600000,
+  "Percent of Population": 35.89,
+  "Population in 2018": 15604210,
+  "CO2 Emissions tons in 2016": 1670941,
+  "Per capita": 0.11,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707548"
+  },
+  "Country": "Solomon Islands",
+  "Energy Consumption BTU": {
+    "$numberLong": "4770491000"
+  },
+  "World Share": 0.00082,
+  "Per capita Yearly BTU": 7412,
+  "Undernourished  People": 50000,
+  "Percent of Population": 7.58,
+  "Population in 2018": 659249,
+  "CO2 Emissions tons in 2016": 341748,
+  "Per capita": 0.54,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f707549"
+  },
+  "Country": "Guinea-Bissau",
+  "Energy Consumption BTU": {
+    "$numberLong": "4395213000"
+  },
+  "World Share": 0.00075,
+  "Per capita Yearly BTU": 2338,
+  "Undernourished  People": 500000,
+  "Percent of Population": 25.97,
+  "Population in 2018": 1924955,
+  "CO2 Emissions tons in 2016": 318706,
+  "Per capita": 0.17,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70754a"
+  },
+  "Country": "Dominica",
+  "Energy Consumption BTU": {
+    "$numberLong": "3949649000"
+  },
+  "World Share": 0.00068,
+  "Per capita Yearly BTU": 56101,
+  "Undernourished  People": 50000,
+  "Percent of Population": 70.6,
+  "Population in 2018": 70823,
+  "CO2 Emissions tons in 2016": 185767,
+  "Per capita": 2.65,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70754b"
+  },
+  "Country": "Vanuatu",
+  "Energy Consumption BTU": {
+    "$numberLong": "3059838000"
+  },
+  "World Share": 0.00053,
+  "Per capita Yearly BTU": 10542,
+  "Undernourished  People": 50000,
+  "Percent of Population": 16.82,
+  "Population in 2018": 297298,
+  "CO2 Emissions tons in 2016": 137706,
+  "Per capita": 0.49,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70754c"
+  },
+  "Country": "St. Vincent & Grenadines",
+  "Energy Consumption BTU": {
+    "$numberLong": "2596000000"
+  },
+  "World Share": 0.00045,
+  "Per capita Yearly BTU": 24595,
+  "Undernourished  People": 50000,
+  "Percent of Population": 47.49,
+  "Population in 2018": 105281,
+  "CO2 Emissions tons in 2016": 362414,
+  "Per capita": 3.42,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70754d"
+  },
+  "Country": "Sao Tome & Principe",
+  "Energy Consumption BTU": {
+    "$numberLong": "2366491000"
+  },
+  "World Share": 0.00041,
+  "Per capita Yearly BTU": 11375,
+  "Undernourished  People": 50000,
+  "Percent of Population": 23.66,
+  "Population in 2018": 211344,
+  "CO2 Emissions tons in 2016": 56185,
+  "Per capita": 0.27,
+  "Share of world": 0
+},
+{
+  "_id": {
+    "$oid": "65bc6f4cb3226e7e7f70754e"
+  },
+  "Country": "Kiribati",
+  "Energy Consumption BTU": 46100000,
+  "World Share": 0.00001,
+  "Per capita Yearly BTU": 383,
+  "Undernourished  People": 50000,
+  "Percent of Population": 40.9,
+  "Population in 2018": 122261,
+  "CO2 Emissions tons in 2016": 52818,
+  "Per capita": 0.45,
+  "Share of world": 0
+}]
